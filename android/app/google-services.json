@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525361414660",
+    "project_id": "cityinfo-3403b",
+    "storage_bucket": "cityinfo-3403b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525361414660:android:834cfdec15ca7d685d2b51",
+        "android_client_info": {
+          "package_name": "com.example.cityinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525361414660-sefdtvasda4fq109hnbhd8n861r5pgk6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASreR67iEfDhmqqblr0o96bQDgGU6ATzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525361414660-sefdtvasda4fq109hnbhd8n861r5pgk6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
